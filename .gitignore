@@ -5,7 +5,8 @@
 /staticfiles/
 
 # Ignore media files
-/media/
+/files/
+/images/
 
 # Ignore virtual environment
 /venv/
@@ -16,7 +17,7 @@
 
 # Ignore compiled Python files
 *.pyc
-__pycache__/
+*/__pycache__/
 
 # Ignore local settings
 /local_settings.py
